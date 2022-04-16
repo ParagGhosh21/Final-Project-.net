@@ -1,0 +1,24 @@
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.dll
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.xml
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+G:\ASP.NET\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

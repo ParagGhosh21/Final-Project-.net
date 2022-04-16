@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cdda95d5b7434e5788b6fc510b4b0101" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjectModel.Admin" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Category" Width="1.5" PointX="3.75" PointY="30.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Customer" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Delivery_Boys" Width="1.5" PointX="3" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Delivery" Width="1.5" PointX="3" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.OrderDetail" Width="1.5" PointX="3" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Order" Width="1.5" PointX="3" PointY="26.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.ProductRating" Width="1.5" PointX="6" PointY="22" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Product" Width="1.5" PointX="6" PointY="17.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Seller" Width="1.5" PointX="3" PointY="37.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.ServiceRating" Width="1.5" PointX="3" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Service" Width="1.5" PointX="3" PointY="45.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.User" Width="1.5" PointX="0.75" PointY="21" IsExpanded="true" />
+        <AssociationConnector Association="ProjectModel.FK_Admins_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Products_Categorys" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Customers_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Delivery_Boys_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Deliverys_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_OrderDetails_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Orders_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_ProductRatings_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_ProductRatings_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Products_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Sellers_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_ServiceRatings_Delivery_Boys" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK_Services_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

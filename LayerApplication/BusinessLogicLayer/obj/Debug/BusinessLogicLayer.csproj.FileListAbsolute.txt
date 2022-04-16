@@ -1,0 +1,28 @@
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+G:\ASP.NET\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Asus\Downloads\Compressed\New folder\Final Project\Final Project\LayerApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
